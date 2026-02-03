@@ -46,4 +46,4 @@ cd client
 npm install
 npm run dev
 
-![register page](register-img.png) ![login page](login-img.png) ![profile page](profile-img.png)
+![register page](/screenshots/register-img.png) ![login page](/screenshots/login-img.png) ![profile page](/screenshots/profile-img.png)
