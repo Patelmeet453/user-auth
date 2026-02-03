@@ -1,0 +1,88 @@
+.login-page {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.login-card label {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.login-card input {
+  height: 45px;
+}
+
+.login-card a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+
+.register-page {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+}
+
+.register-card {
+  width: 100%;
+  max-width: 420px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.register-card label {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.register-card input {
+  height: 45px;
+}
+
+.register-card a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+
+.navbar-custom {
+  min-height: 60px;
+}
+
+.navbar-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+
+.profile-card {
+  width: 450px;
+  border-radius: 12px;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ddd;
+}
+

@@ -1,0 +1,29 @@
+.login-page {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fa;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.login-card label {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.login-card input {
+  height: 45px;
+}
+
+.login-card a {
+  text-decoration: none;
+  font-weight: 500;
+}
